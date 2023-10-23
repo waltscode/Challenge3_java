@@ -34,7 +34,7 @@ function generatePassword() {
   var lowercase1 = 'abcdefghijklmnopqrstuvwrxyz';
   var numbers1 = '0123456789';
   var symbols1 = '!@#$%^&*()?<>';
-  // var passwordlength1 = min(8), max(124);
+  
 if (upperCase) {
   userChoices += upperCase1
 }
